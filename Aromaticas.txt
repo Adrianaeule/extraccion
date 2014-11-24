@@ -1,0 +1,33 @@
+<html>
+<script language=javascript>
+function INFORME (URL,VEN){
+  window.open(URL,VEN,"width=750,height=500,scrollbars=NO")
+}
+</script>
+<head>
+<title>Lista de Precios MERCADILLO DEL AGRICULTOR DE TACORONTE</title>
+<body bgcolor=#E7FEF0 link="red">
+<a href="http://www.mercadillodelagricultor.com" target="_top"><img border="0" src="../archivos%20respaldo/logotipoP.JPG" width="209" height="76" align="Left"></a></p>
+<br>
+<br>
+<br>
+<br>
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 ></TD><TD WIDTH=662  ALIGN=center ><U><FONT style=FONT-SIZE:24pt FACE="Times New Roman" COLOR=#000000>LISTA DE PRECIOS</FONT></U>
+</TABLE><TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0> <TD WIDTH=662 ALIGN=CENTER ><B><FONT style=FONT-SIZE:10pt FACE="Times New Roman" COLOR=#000000>Fecha de los precios</FONT></B> <FONT style=FONT-SIZE:16pt FACE="Times New Roman" COLOR=#000000>24/05/2014</FONT></B>
+<br>
+<font color="purple"size=+1><a href="PreciosA.htm">Aromáticas<a>     </font>
+<font color="purple"size=+1><a href="PreciosB.htm">Fruta<a>     </font>
+<font color="purple"size=+1><a href="PreciosD.htm">Verduras<a>     </font>
+<font color="purple"size=+1><a href="PreciosP.htm">Papas<a>     </font>
+<br>
+<TABLE BORDER=1 CELLSPACING=1 CELLPADDING=1 ></TD><TD WIDTH=540  ALIGN=center ><FONT style=FONT-SIZE:24pt FACE="Times New Roman" COLOR=#000000>Aromáticas</FONT>
+</TR></TABLE><TABLE bgcolor=#88F9B3 BORDER=1 CELLSPACING=0 CELLPADDING=0 ><TR HEIGHT=30 ><TD WIDTH=340  ALIGN=LEFT ><B><FONT style=FONT-SIZE:14pt FACE="Times New Roman" COLOR=#000000 title="Entre otros los puede encontrar en los puestos de:          Mª Remedios Dorta Rodríguez en puesto '33-34'"style="cursor:hand"><a href="javascript:INFORME('paginaSOCIOS/ProductoA 02.htm','A02')">Berros Kg.</a></FONT></B></TD></TD><TD WIDTH=100  ALIGN=RIGHT ><B><FONT style=FONT-SIZE:14pt FACE="Times New Roman" COLOR=#000000>1,00 €</FONT></B></TD></TD><TD WIDTH=100  ALIGN=RIGHT ><B><FONT style=FONT-SIZE:14pt FACE="Times New Roman" COLOR=#000000>2,00 €</FONT></B></TD></TR>
+</TR></TABLE><TABLE bgcolor=#5BF796 BORDER=1 CELLSPACING=0 CELLPADDING=0 ><TR HEIGHT=30 ><TD WIDTH=340  ALIGN=LEFT ><B><FONT style=FONT-SIZE:14pt FACE="Times New Roman" COLOR=#000000 title="Entre otros los puede encontrar en los puestos de:          Mª Remedios Dorta Rodríguez en puesto '33-34'David Jesús Placencia López en puesto '86'"style="cursor:hand"><a href="javascript:INFORME('paginaSOCIOS/ProductoA 03.htm','A03')">Cilantro</FONT></B></TD></TD><TD WIDTH=100  ALIGN=RIGHT ><B><FONT style=FONT-SIZE:14pt FACE="Times New Roman" COLOR=#000000>0,15 €</FONT></B></TD></TD><TD WIDTH=100  ALIGN=RIGHT ><B><FONT style=FONT-SIZE:14pt FACE="Times New Roman" COLOR=#000000>0,30 €</FONT></B></TD></TR>
+</TR></TABLE><TABLE bgcolor=#88F9B3 BORDER=1 CELLSPACING=0 CELLPADDING=0 ><TR HEIGHT=30 ><TD WIDTH=340  ALIGN=LEFT ><B><FONT style=FONT-SIZE:14pt FACE="Times New Roman" COLOR=#000000 title="Entre otros los puede encontrar en los puestos de:          Mª Remedios Dorta Rodríguez en puesto '33-34'David Jesús Placencia López en puesto '86'Mª del Carmen Ramos  Barbuzano en puesto '88'"style="cursor:hand"><a href="javascript:INFORME('paginaSOCIOS/ProductoA 01.htm','A01')">Perejil manojo</a></FONT></B></TD></TD><TD WIDTH=100  ALIGN=RIGHT ><B><FONT style=FONT-SIZE:14pt FACE="Times New Roman" COLOR=#000000>0,15 €</FONT></B></TD></TD><TD WIDTH=100  ALIGN=RIGHT ><B><FONT style=FONT-SIZE:14pt FACE="Times New Roman" COLOR=#000000>0,40 €</FONT></B></TD></TR>
+</TR></TABLE><TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 ><TR HEIGHT=30 ><TD WIDTH=440  ALIGN=LEFT ></TR>
+<font color="purple"size=+1><a href="PreciosA.htm">Aromáticas<a>     </font>
+<font color="purple"size=+1><a href="PreciosB.htm">Fruta<a>     </font>
+<font color="purple"size=+1><a href="PreciosD.htm">Verduras<a>     </font>
+<font color="purple"size=+1><a href="PreciosP.htm">Papas<a>     </font>
+</body>
+</html>
